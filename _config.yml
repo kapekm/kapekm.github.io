@@ -6,6 +6,18 @@
 # `jekyll serve -l -H localhost`. If you change this file, please restart the 
 # server process.
 
+remote_theme: "mmistakes/minimal-mistakes"
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-paginate
+  - jekyll-archives
+  - jekyll-avatar
+  - jekyll-coffeescript
+  - jekyll-gist
+  - jemoji
+
 # Basic Site Settings
 locale                   : "en-US"
 title                    : "Kacper Mozdzen"
