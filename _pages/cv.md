@@ -9,22 +9,15 @@ redirect_from:
 
 {% include base_path %}
 
-## Kacper Mateusz Możdżeń
-- Email: thekacpermozdzen@gmail.com
-- LinkedIn: [linkedin.com/in/kacper-możdżeń](https://www.linkedin.com/in/kacper-możdżeń)
-- Phone: +36 0642662332
-
----
-
 ### EDUCATION
 
 **Master of Science in Data Science for Food and Health**  
 Wageningen University and Research, Wageningen, Netherlands  
-Aug. 2023 - Present
+*Aug. 2023 - Present*
 
 **Bachelor of Science in Food Technology with Minor in Data Science**  
 Wageningen University and Research, Wageningen, Netherlands  
-Aug. 2020 - July 2023
+*Aug. 2020 - July 2023*
 
 ---
 
@@ -62,17 +55,19 @@ Wageningen, 2024
 ### RELEVANT SKILLS
 
 **Technical:**
-- Machine Learning: Supervised (classification, regression), Unsupervised (dimensionality reduction, clustering), Feature engineering, Data manipulation (loading, clean-up, transformation), Visualizations
-- Math and Statistics: Calculus, Linear algebra, Statistical tests and models, Probability, Bayesian statistics (e.g., MCMC)
-- Programming and Modeling: Python (pandas, NumPy, seaborn, matplotlib, PySpark), R, Java, Anaconda, Git, Power BI
-- Data Management: SQL, SPARQL, RDF, OWL, Unified Modeling Language (UML), Entity-relationship (ER) diagrams
+- **Machine Learning:** *Supervised (classification, regression), Unsupervised (dimensionality reduction, clustering), Feature engineering, Data manipulation (loading, clean-up, transformation), Visualizations*
+- **Math and Statistics:** *Calculus, Linear algebra, Statistical tests and models, Probability, Bayesian statistics (e.g., MCMC)*
+**Programming and modeling:**
+- **Data Science:** *Python (pandas, NumPy, seaborn, matplotlib, seaborn, PySpark), R, Java, Anaconda, Git, Power BI*
+- **Data Management:** *SQL, SPARQL, RDF, OWL, Unified Modeling Language (UML), Entity–relationship (ER) diagrams*
+
 
 ---
 
 ### INTERESTS
 
 - **Fitness:** Setting and achieving fitness goals through gym workouts, rock climbing, and running.
-- **Creative Skills:** Developing creative skills, particularly in film photography.
+- **Creative Skills:** Developing creative skills, particularly in photography, writing and programming projects.
 - **Exploring New Hobbies:** Eager to learn and explore new interests.
 
 ---
