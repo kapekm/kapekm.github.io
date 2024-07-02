@@ -21,10 +21,10 @@ repository               : "kapekm/kapekm.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profilePicture.png"
   name             : "Kacper Mozdzen"
   pronouns         : # example: "she/her"  
-  bio              : "I'm Kacper Mateusz Możdżeń, a Food Technology and Data Science professional with a Master's degree from Wageningen University. My expertise lies in leveraging machine learning to optimize supply chains and analyzing large datasets for industry leaders like Unilever. Beyond work, I'm passionate about fitness, photography, and continuous learning. I'm fluent in English and Polish, always seeking new challenges and opportunities to grow."
+  bio              : "Data Scientist"
   location         : "Netherlands"
   employer         : ""
   uri              : # URL
