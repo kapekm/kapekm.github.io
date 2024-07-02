@@ -26,7 +26,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Data Scientist"
   location         : "Netherlands"
-  employer         : ""
+  employer         : 
   uri              : # URL
   email            : "thekacpermozdzen@gmail.com" 
 
@@ -57,7 +57,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "Kacper Możdżeń"
+  linkedin         : "kacpermozdzen"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
