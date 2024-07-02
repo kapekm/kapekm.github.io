@@ -12,7 +12,7 @@ title                    : "Kacper Mozdzen"
 title_separator          : "-"
 name                     : &name "Kacper Mozdzen"
 description              : &description "Data Scientist and Food Technologist"
-url                      : https://kapekm.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      :  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "kapekm/kapekm.github.io"
 
