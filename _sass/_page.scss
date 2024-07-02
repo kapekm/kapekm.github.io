@@ -10,6 +10,7 @@
   padding-right: 1em;
   animation: intro 0.3s both;
   animation-delay: 0.35s;
+  background-color: #1C2026;
 
   @include breakpoint($x-large) {
     max-width: $x-large;
